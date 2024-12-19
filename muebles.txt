@@ -1,3 +1,4 @@
 Mesa
 Silla
 Espejo 
+Perchas
