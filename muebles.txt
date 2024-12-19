@@ -2,3 +2,4 @@ Mesa
 Silla
 Espejo 
 Perchas
+Estantes
